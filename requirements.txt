@@ -11,3 +11,6 @@ unicorn
 numpy
 pmdarima
 yahooquery
+dateutil
+celery
+diskcache
